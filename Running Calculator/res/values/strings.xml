@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RunningCalculatorActivity!</string>
+    <string name="app_name">Running Calculator</string>
+    <string name="Distance_prompt">Choose Measure</string>
+
+    <string-array name="Distance_arrays">
+        <item>[mi] Miles</item>
+        <item>[km] Kilometers</item>
+        <item>[m] Meters</item>
+        <item>[yd] Yards</item>
+    </string-array>
+
+    <string name="Weight_prompt">Choose Weight</string>
+
+    <string-array name="Weight_arrays">
+        <item>Lbs</item>
+        <item>Kg</item>
+    </string-array>
+
+    <string name="worldrecords_prompt">Choose Your Weight</string>
+
+    <string-array name="worldrecords_arrays">
+        <item>500 m</item>
+        <item>1,000 m</item>
+        <item>2,000 m</item>
+        <item>5,000 m</item>
+        <item>6,000 m</item>
+        <item>10,000 m</item>
+        <item>30 minutes</item>
+        <item>60 minutes</item>
+        <item>Million Meters</item>
+    </string-array>
+
+</resources>

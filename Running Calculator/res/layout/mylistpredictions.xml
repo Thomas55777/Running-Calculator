@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- row.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:paddingBottom="4dp"
+    android:paddingTop="4dp"
+    android:weightSum="1" >
+
+    <TextView
+        android:id="@+id/PredictionsListDistance"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight=".25"
+        android:gravity="center" />
+    <!-- android:background="@drawable/predictions_border" -->
+
+    <TextView
+        android:id="@+id/PredictionsListTime"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight=".25"
+        android:gravity="center" />
+
+    <TextView
+        android:id="@+id/PredictionsListPace"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight=".25"
+        android:gravity="center" />
+    <TextView
+        android:id="@+id/PredictionsListCal"
+        android:layout_width="0px"
+        android:layout_height="wrap_content"
+        android:layout_weight=".25"
+        android:gravity="center" />
+    
+</LinearLayout>

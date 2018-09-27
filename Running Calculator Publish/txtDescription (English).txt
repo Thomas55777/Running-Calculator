@@ -1,0 +1,7 @@
+Description: 	
+Calculate Distance, Time, and Pace, Calories Burned, and predictions using Peter Riegel’s formula.  
+Enter in two values from your Distance, Time, Pace and you can use this App to calculate the third.  Easily calculate and compare between Miles, Kilometers, Meters, and Yards.  Using this information the App will automatically calculate your Speed in MPH and KPH, Calories Burned and your predictions using Peter Riegel’s formula.  Additionally each time you press one of the calculate buttons a record of it is stored in your history.  This is a great feature as it allows you to keep track of weeks worth of workouts and training plans.  The History will record the Date/Time, your Distance, Time, and Pace.  To access your history go to the Calculate Tab, press the menu button, and select History.
+
+Formulas Used:
+Calories = Kilograms * Kilometers * 1.036
+Peter Riegel’s formula: T2=T1*(D2/D1)^1.06
